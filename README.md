@@ -2,7 +2,7 @@
 
 ### The script file can be found here [(link)](https://github.com/luisintalan/sql-wiiufailure/blob/main/WiiU%20SQL%20Queries.sql)
 
-### For a detailed narrative, visit the Medium page for a deeper understanding of the Wii U's market trajectory and the lessons it offers for future gaming platforms.
+### For a detailed analysis, visit my [Medium article!](https://medium.com/@luisrdintalan/examining-the-failure-of-the-wii-u-with-data-a9a5aaa12940)
 
 The dataset consists of a list of video games with greater than 100,000 copies sold. The csv file from Kaggle was loaded onto Microsoft SQL Server using the built-in import function.
 
